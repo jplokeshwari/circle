@@ -20,4 +20,7 @@ int main() {
 float calculateDiameter(float radius) {
     return 2 * radius;
 }
+float calculateCircumference(float radius) {
+    return 2 * PI * radius;
+}
 
