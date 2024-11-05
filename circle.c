@@ -17,3 +17,7 @@ int main() {
 
     return 0;
 }
+float calculateDiameter(float radius) {
+    return 2 * radius;
+}
+
