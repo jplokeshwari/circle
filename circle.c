@@ -23,4 +23,7 @@ float calculateDiameter(float radius) {
 float calculateCircumference(float radius) {
     return 2 * PI * radius;
 }
+float calculateArea(float radius) {
+    return PI * radius * radius;
+}
 
